@@ -9,7 +9,7 @@ import (
 	"github.com/Arafatk/glot"
 )
 
-// Robot represents a robot class
+// Robot represents a robot instance
 type Robot struct {
 	name     string
 	quantity int
