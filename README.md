@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/Fef0/CashRobotsTrend)](https://goreportcard.com/report/github.com/Fef0/CashRobotsTrend)
+
 # CashRobotsTrend
 A Go script which calculates your earnings on Telegram bot "Cash Robots"
 
